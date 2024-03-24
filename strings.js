@@ -10,3 +10,9 @@ console.log(nome.charAt(0))
 
 console.log(nome.toUpperCase())
 console.log(nome.toLowerCase())
+
+console.log(nome.substring(5, 8))
+
+console.log(nome.slice(-6))
+
+console.log(nome.slice(5, 8))
