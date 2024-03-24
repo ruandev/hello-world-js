@@ -27,3 +27,15 @@ console.log(idade > 18)
 console.log(idade > 18 && salario > 1000)
 console.log(idade < 18 && salario > 1000)
 console.log(idade < 18 || salario > 1500)
+
+const resultado = 5 % 3
+
+switch (resultado) {
+    case 0: console.log("O número é par")
+        break
+    
+    case 1: console.log("O número é ímpar")
+        break
+    
+    default: console.log("Um número desconhecido")
+}
