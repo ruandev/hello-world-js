@@ -16,3 +16,11 @@ console.log(nome.substring(5, 8))
 console.log(nome.slice(-6))
 
 console.log(nome.slice(5, 8))
+
+let sobrenome = "Silva"
+
+console.log(nome + sobrenome)
+console.log(nome.concat(sobrenome))
+console.log(`${nome} ${sobrenome}`)
+console.log(nome + " " + sobrenome)
+console.log(`O meu nome é ${nome}. O meu sobrenome é ${sobrenome}`)
