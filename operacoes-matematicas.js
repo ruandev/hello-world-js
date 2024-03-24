@@ -23,4 +23,12 @@ console.log(2 * 3)
 
 // Divisão
 console.log("Divisão")
-console.log(10/2)
+console.log(10 / 2)
+
+// Resto de divisão
+console.log("Resto da divisão")
+console.log(7 % 2)
+
+// Exponenciação
+console.log("Exponenciação")
+console.log(2**3)
